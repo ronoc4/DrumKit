@@ -9,6 +9,14 @@ body,html {
     font-family: sans-serif;
 }
 
+h1.title {
+    font-family: 'Bungee', cursive;
+    font-size: 5rem;
+    text-align: center;
+    color: #BB9E55;
+    text-shadow: 0 0 5px plum;
+}
+
 .keys {
     display:flex;
     flex:1;
@@ -47,4 +55,5 @@ kbd {
     text-transform: uppercase;
     letter-spacing: 1px;
     color:#3F8DC1;
+    font-family: 'Bungee', cursive;
 }
